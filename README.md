@@ -9,10 +9,11 @@ A simple command-line application to add, view, search, and delete student recor
 - Delete records
 - Menu-driven interface
 
-## How to Run
+## How to Run:
    ```bash
    python student_record_manager.py
-   ```bash
+   ```
+
 
 ## Author
-   Venkat Sanjay
+Venkat Sanjay
